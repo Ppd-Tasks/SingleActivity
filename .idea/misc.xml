@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/PDP/Android BootCamp/Xurshidek Kurbanov/Modul_8/SingleActivity/app/src/main/res/drawable/app_main_gradient.xml" value="0.1515" />
+        <entry key="..\:/PDP/Android BootCamp/Xurshidek Kurbanov/Modul_8/SingleActivity/app/src/main/res/drawable/bottom_navigation_color_selector.xml" value="0.1515" />
+        <entry key="..\:/PDP/Android BootCamp/Xurshidek Kurbanov/Modul_8/SingleActivity/app/src/main/res/drawable/view_rounded_corner.xml" value="0.1515" />
+        <entry key="..\:/PDP/Android BootCamp/Xurshidek Kurbanov/Modul_8/SingleActivity/app/src/main/res/font-v26/custom_font.xml" value="0.27589743589743587" />
+        <entry key="..\:/PDP/Android BootCamp/Xurshidek Kurbanov/Modul_8/SingleActivity/app/src/main/res/font/custom_font.xml" value="0.27487179487179486" />
+        <entry key="..\:/PDP/Android BootCamp/Xurshidek Kurbanov/Modul_8/SingleActivity/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/PDP/Android BootCamp/Xurshidek Kurbanov/Modul_8/SingleActivity/app/src/main/res/layout/flow_fragment_main.xml" value="0.25" />
+        <entry key="..\:/PDP/Android BootCamp/Xurshidek Kurbanov/Modul_8/SingleActivity/app/src/main/res/layout/fragment_chat.xml" value="0.2359375" />
+        <entry key="..\:/PDP/Android BootCamp/Xurshidek Kurbanov/Modul_8/SingleActivity/app/src/main/res/layout/fragment_history.xml" value="0.25" />
+        <entry key="..\:/PDP/Android BootCamp/Xurshidek Kurbanov/Modul_8/SingleActivity/app/src/main/res/layout/fragment_home.xml" value="0.25" />
+        <entry key="..\:/PDP/Android BootCamp/Xurshidek Kurbanov/Modul_8/SingleActivity/app/src/main/res/layout/fragment_login.xml" value="0.25" />
+        <entry key="..\:/PDP/Android BootCamp/Xurshidek Kurbanov/Modul_8/SingleActivity/app/src/main/res/layout/fragment_login_flow.xml" value="0.2359375" />
+        <entry key="..\:/PDP/Android BootCamp/Xurshidek Kurbanov/Modul_8/SingleActivity/app/src/main/res/layout/fragment_main_flow.xml" value="0.2359375" />
+        <entry key="..\:/PDP/Android BootCamp/Xurshidek Kurbanov/Modul_8/SingleActivity/app/src/main/res/layout/fragment_profile.xml" value="0.1" />
+        <entry key="..\:/PDP/Android BootCamp/Xurshidek Kurbanov/Modul_8/SingleActivity/app/src/main/res/layout/fragment_search.xml" value="0.25" />
+        <entry key="..\:/PDP/Android BootCamp/Xurshidek Kurbanov/Modul_8/SingleActivity/app/src/main/res/layout/fragment_sign_up.xml" value="0.25" />
+        <entry key="..\:/PDP/Android BootCamp/Xurshidek Kurbanov/Modul_8/SingleActivity/app/src/main/res/layout/fragment_splash.xml" value="0.25" />
+        <entry key="..\:/PDP/Android BootCamp/Xurshidek Kurbanov/Modul_8/SingleActivity/app/src/main/res/layout/item_post_home.xml" value="0.234375" />
+        <entry key="..\:/PDP/Android BootCamp/Xurshidek Kurbanov/Modul_8/SingleActivity/app/src/main/res/menu/menu_bottom_navigation.xml" value="0.25" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
